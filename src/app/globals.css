@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --color-background: #fafafa;
+  --color-foreground: #000000;
+  --font-fira: var(--font-fira);
+}
+
+:root {
+  --background: #fafafa;
+  --foreground: #000000;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-fira), monospace;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+* {
+  font-family: var(--font-fira), monospace !important;
+}
