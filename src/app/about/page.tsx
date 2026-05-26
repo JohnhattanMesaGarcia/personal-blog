@@ -24,10 +24,7 @@ export default function AboutPage() {
         <p>
           <em>"Lo que no se escribe, el viento se lo lleva"</em> - O al menos, así me siento cuando las ideas flotan en mi cabeza sin un ancla de tinta (o de píxeles).
         </p>
-        <h2 className="font-playfair text-2xl mt-10 mb-4 border-b pb-2 inline-block border-gray-300 relative left-1/2 -content -translate-x-1/2">El Propósito Educativo</h2>
-        <p className="text-center">
-          Este proyecto fue construido con <strong>Next.js 15, Prisma y Tailwind CSS</strong>. Cada componente ha sido diseñado como un experimento para entender mejor las arquitecturas server-driven y compartirlo con quienes buscan aprender desarrollo web.
-        </p>
+
       </div>
     </article>
   );
