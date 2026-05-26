@@ -1,7 +1,7 @@
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Sobre Mí | <JonaScript_ />",
+  title: "Sobre Mí | <elCuadernoDeJonas_ />",
   description: "Conoce a la persona detrás de las historias.",
 };
 
@@ -16,7 +16,7 @@ export default function AboutPage() {
       
       <div className="font-lora text-lg leading-relaxed space-y-6 lg:px-12 text-gray-800">
         <p>
-          Bienvenido a <strong>&lt;JonaScript_ /&gt;</strong>. Este espacio es mi diario digital, un experimento de introspección donde publico reflexiones, aprendizajes y experiencias mínimas rodeadas de mi amor por mi hijo.
+          Bienvenido a <strong>&lt;elCuadernoDeJonas_ /&gt;</strong>. Este espacio es mi diario digital, un experimento de introspección donde publico reflexiones, aprendizajes y experiencias mínimas rodeadas de mi amor por mi hijo.
         </p>
         <p>
           No soy un escritor, de hecho quiero disculpamer por que lo mas probable es que mis textos esten mal escritos, con mala puntuación algunos sin tildes o disonantes en muchos parrafos. Pero quiero entiendas que mi proposito es dejar que mi corazón y mi mente puedan despojarse de tantas cosas que en el mundo o la vida que llamamos, a veces no alcanzamos a decir, o si quiera apreciar, por que ahora todo va deprisa, sin sentido, sin raciosinio, sin amor, sin ternura, sin tolerancia, sin más. 
